@@ -1,0 +1,7 @@
+{
+    "name": "mrphp/ckfinder-assets",
+    "description": "CKFinder Assets",
+    "type": "library",
+    "keywords": ["ckfinder","mrphp"],
+    "minimum-stability": "dev"
+}
