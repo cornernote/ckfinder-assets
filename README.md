@@ -1,0 +1,4 @@
+ckfinder-assets
+===============
+
+CKFinder Assets
