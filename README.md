@@ -1,4 +1,3 @@
-ckfinder-assets
-===============
+# CKFinder Assets
 
-CKFinder Assets
+CKFinder assets only.
